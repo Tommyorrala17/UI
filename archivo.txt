@@ -1,0 +1,4 @@
+ Estudiante : {'_cedula': None, '_nombre': 'alex', '_apellido': 'anchundia', '_email': None, '_telefono': None, '_direccion': None, '_numero_libros': 0, '_activo': True, '_carrera': None, '_id': 1, '_nivel': 0}
+ Docente : {'_cedula': None, '_nombre': 'Maria', '_apellido': 'Castañeda', '_email': None, '_telefono': None, '_direccion': None, '_numero_libros': 0, '_activo': True, '_carrera': None, '_id': 1, '_titulo_3er_nivel': None, '_titulo_4to_nivel': None}
+ Estudiante : {'_cedula': None, '_nombre': 'Luis', '_apellido': 'Macias', '_email': None, '_telefono': None, '_direccion': None, '_numero_libros': 0, '_activo': True, '_carrera': None, '_id': 1, '_nivel': 0}
+ Estudiante : {'_cedula': None, '_nombre': 'Tommy', '_apellido': 'Orrala', '_email': None, '_telefono': None, '_direccion': None, '_numero_libros': 0, '_activo': True, '_carrera': None, '_id': 2, '_nivel': 0}
